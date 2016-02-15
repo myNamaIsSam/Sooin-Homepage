@@ -1,6 +1,6 @@
 # Sooin-Homepage
 
-Temporarily Hosting Site</br>
+[ Temporarily Hosting Site ]</br>
 Manager ID = manager</br>
 Manager password = manager</br>
 <a href="http://imds39.cafe24.com/"> Sooin SMC Company Homepage </a></br></br>

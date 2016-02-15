@@ -1,5 +1,4 @@
 # Sooin-Homepage
-Sooin SMC Company Homepage
 
 Temporarily Hosting Site</br>
 <a href="http://imds39.cafe24.com/"> Sooin SMC Company Homepage </a></br></br>
